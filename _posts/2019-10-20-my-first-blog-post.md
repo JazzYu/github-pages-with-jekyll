@@ -1,5 +1,5 @@
 2019-10-20-my-first-blog-post
 ---
-title: "nidajiu"
+title: "Welcome to my blog"
 date: 2019-10-20
 ---
